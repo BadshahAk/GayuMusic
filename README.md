@@ -99,9 +99,18 @@
 <a href="https://github.com/ TheChampu"><img src="https://img.shields.io/badge/-♦️TheChampu♦️-darkblue?style=for-the-badge&logo=Telegram"></a>
 
 </p>
+<h3 align="center">
+
+     Legend+God  Credit 💕 
+
+
 </h3>
 
-<a href="https://github.com/vicky0604hello"><img src="https://img.shields.io/badge/-♦️Vicky Jaat♦️-Violet?style=for-the-badge&logo=Telegram"></a>
+<p align="center">
+
+</h3>
+
+<a href="https://github.com/vicky0604hello"><img src="https://img.shields.io/badge/-☺️🧬Vicky Jaat🧬☺️-Violet?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
