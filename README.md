@@ -28,11 +28,6 @@
 </p>
 
 
-<h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
- 
-[![MUSIC](https://img.shields.io/badge/-TheChampuBot-E1306C?style=for-the-badge&logo=TheChampuBot&logoColor=green)](https://t.me/TheChampuBot)
-[![MUSIC](https://img.shields.io/badge/TheKittyXD_Bot-%2307405e.svg?&style=for-the-badge&logo=TheKittyXD_Bot&logoColor)](https://t.me/TheKittyXD_Bot)
-[![MUSIC](https://img.shields.io/badge/itsWaifuBot-%2307405e.svg?&style=for-the-badge&logo=itsWaifuBot&logoColor)](https://t.me/itsWaifuBot)
 
 
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
@@ -113,7 +108,7 @@ sudo pkill -9 python3
 
 
 <h3 align="center">
-    ─「 🖤ꜱнͥινͣαͫиѕнυ🖤 」─
+ 𝐆𝐚𝐲𝐚𝐭𝐫𝐢
 </h3>
 
 <p align="center">
