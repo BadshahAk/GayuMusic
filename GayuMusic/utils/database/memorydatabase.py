@@ -587,7 +587,7 @@ async def maintenance_on():
 # Audio Video Limit
 
 import os
-from pytgcalls import Client
+from pyrogram import Client
 from pytgcalls.types import AudioPiped, VideoPiped, StreamType
 import subprocess
 import config  # Assuming TEMP_DB_FOLDER is in your config file
