@@ -110,7 +110,7 @@
 
 </h3>
 
-<a href="https://github.com/vicky0604hello"><img src="https://img.shields.io/badge/-☺️🧬Vicky Jaat🧬☺️-Violet?style=for-the-badge&logo=Telegram"></a>
+<a href="https://github.com/VICKYCHOUDHARY1"><img src="https://img.shields.io/badge/-☺️🧬Vicky Jaat🧬☺️-Violet?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -179,7 +179,7 @@ sudo pkill -9 python3
 <h3 align="center">ᴍᴇᴇᴛ ᴏᴜʀ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs</h3>
 <p align="center" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 8px;">
   <a href="https://github.com/BadshahAk/GayuMusic/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheChampu/ChampuMusic" alt="Contributors" style="border: 2px solid #000; border-radius: 10px;"/>
+    <img src="https://contrib.rocks/image?repo=BadshahAk/GayuMusic" alt="Contributors" style="border: 2px solid #000; border-radius: 10px;"/>
   </a>
 </p>
 
