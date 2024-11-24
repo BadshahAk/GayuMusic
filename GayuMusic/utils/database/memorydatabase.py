@@ -592,34 +592,7 @@ from pytgcalls.types import StreamType
 from pytgcalls.types.input_stream import AudioPiped, VideoPiped
 
 # FFmpeg availability check
-def check_ffmpeg():
-    try:
-        subprocess.run(["ffmpeg", "-version"], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        print("FFmpeg is installed and ready.")
-    except FileNotFoundError:
-        raise RuntimeError("FFmpeg is not installed. Please install it and try again.")
 
-# Paths for audio and video files
-AUDIO_FILE = os.path.join(config.TEMP_DB_FOLDER, "audio.json")
-VIDEO_FILE = os.path.join(config.TEMP_DB_FOLDER, "video.json")
-
-# Ensure TEMP_DB_FOLDER exists
-os.makedirs(config.TEMP_DB_FOLDER, exist_ok=True)
-
-# Initialize PyTgCalls
-def initialize_pytgcalls():
-    check_ffmpeg()  # Ensure FFmpeg is installed
-    client = PyTgCalls()
-    
-    # Example of starting an audio and video stream
-    audio_stream = AudioPiped("path/to/audio.mp3", stream_type=StreamType.LOCAL)
-    video_stream = VideoPiped("path/to/video.mp4", stream_type=StreamType.LOCAL)
-
-    print("PyTgCalls initialized and ready for streaming.")
-    
-    # You can add more logic here to stream audio/video
-
-initialize_pytgcalls()
 
 
 def load_data(file_path):
