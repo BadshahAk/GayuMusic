@@ -6,6 +6,17 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+[![Anand's GitHub Profile](https://img.shields.io/badge/Telegram-Anand-181717?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/KINGxADMIN)
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+![Stars](https://img.shields.io/github/stars/BadshahAk/GayuMusic?style=social)
+![Forks](https://img.shields.io/github/forks/BadshahAk/GayuMusic?style=social)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Anand's GitHub Profile](https://github-readme-stats.vercel.app/api?username=BadshahAk&show_icons=true&theme=flag-india)](https://github.com/BadshahAk) 
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ###♥️Viewers♥️
@@ -101,8 +112,7 @@
 </p>
 <h3 align="center">
 
-     Legend+God  Credit 💕 
-
+      GodBhai
 
 </h3>
 
