@@ -586,6 +586,43 @@ async def maintenance_on():
 
 # Audio Video Limit
 
+import os
+from pytgcalls import Client
+from pytgcalls.types import AudioPiped, VideoPiped, StreamType
+import subprocess
+import config  # Assuming TEMP_DB_FOLDER is in your config file
+
+# FFmpeg availability check
+def check_ffmpeg():
+    try:
+        subprocess.run(["ffmpeg", "-version"], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        print("FFmpeg is installed and ready.")
+    except FileNotFoundError:
+        raise RuntimeError("FFmpeg is not installed. Please install it and try again.")
+
+# Ensure TEMP_DB_FOLDER exists
+os.makedirs(config.TEMP_DB_FOLDER, exist_ok=True)
+
+# Define AUDIO_FILE and VIDEO_FILE paths
+AUDIO_FILE = os.path.join(config.TEMP_DB_FOLDER, "audio.json")
+VIDEO_FILE = os.path.join(config.TEMP_DB_FOLDER, "video.json")
+
+# Initialize the Client (from pytgcalls)
+def initialize_pytgcalls():
+    check_ffmpeg()  # Ensure FFmpeg is installed
+    client = Client("my_bot_session")  # Initialize the client
+    
+    # Example: Stream audio and video
+    audio_stream = AudioPiped(AUDIO_FILE, stream_type=StreamType.LOCAL)  # Using AUDIO_FILE
+    video_stream = VideoPiped(VIDEO_FILE, stream_type=StreamType.LOCAL)  # Using VIDEO_FILE
+    
+    print("PyTgCalls initialized and ready for streaming.")
+    
+    # Start streaming audio/video
+    client.start_streaming(audio_stream)
+    client.start_streaming(video_stream)
+
+initialize_pytgcalls()
 
 # FFmpeg availability check
 
