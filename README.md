@@ -53,17 +53,7 @@
 
 <p align="center">
 
-<a href="https://github.com/BadshahAk/GayuMusic/stargazers"><img src="https://img.shields.io/github/stars/BadshahAk/GayuMusic?color=blue&logo=github&logoColor=blue&style=for-the-badge" alt="Stars" /></a>
 
-<a href="BadshahAk/GayuMusic/network/members"> <img src="https://img.shields.io/github/forks/BadshahAk/SoftyXbot?color=blue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-
-<a href="https://github.com/BadshahAk/GayuMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /> </a>
-
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-blue?style=for-the-badge&logo=python" alt="Python" /> </a>
-
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=blue&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-
-<a href="https://github.com/BadshahAk/GayuMusic/commits/BadshahAk"> <img src="https://img.shields.io/github/last-commit/BadshahAk/SoftyXbot?color=darkred&logo=github&logoColor=blue&style=for-the-badge" /></a>
 
 </p>
 
