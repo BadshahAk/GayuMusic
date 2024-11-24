@@ -585,11 +585,7 @@ async def maintenance_on():
 
 
 # Audio Video Limit
-import os
-import subprocess
-from pytgcalls import PyTgCalls
-from pytgcalls.types import StreamType
-from pytgcalls.types.input_stream import AudioPiped, VideoPiped
+
 
 # FFmpeg availability check
 
