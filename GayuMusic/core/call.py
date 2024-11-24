@@ -69,7 +69,7 @@ async def _clear_(chat_id):
     )
 
 
-class Call(PyTgCalls):
+class call(Pytgcalls):
     def __init__(self):
         self.userbot1 = Client(
             name="GayuString1",
